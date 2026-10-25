@@ -1,0 +1,9 @@
+# Old Wix URLs -> new pages (301)
+/bookcrawl            /the-book-crawl/   301
+/bookcrawl/           /the-book-crawl/   301
+/interviews           /press/            301
+/interviews/          /press/            301
+/mels-meditations     /meditations/      301
+/mels-meditations/    /meditations/      301
+/photopassion         /                  301
+/blog                 /                  301

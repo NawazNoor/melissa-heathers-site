@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nawaznoor.github.io/Melissa-heathers-project/sitemap.xml
